@@ -1,0 +1,20 @@
+div.list-group>a.active{
+	color: #000000;
+	background-color: #F5F5F5;
+	border-color: #ddd;
+}
+.logo{
+	color: #969694;
+}
+.form-signin .btn.btn-block{
+	border-color: #ddd;
+	width: 20%;
+	background-color: #FFFFFF;
+	color: #969694;
+	margin-left: auto;
+	margin-top: 10px;
+
+}
+.btn-group-lg>.btn, .btn-lg{
+	padding: 5px 5px;
+}
